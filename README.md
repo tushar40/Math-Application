@@ -13,8 +13,8 @@ have 2 modules:
 - Activity 2 will display the result of the math operation.
 - Errors and exceptions to be handled gracefully.
 
-​![alt text](https://github.com/tushar40/TWSearchClient/blob/master/readme-images/splash.png)
-​![alt text](https://github.com/tushar40/TWSearchClient/blob/master/readme-images/home.png)
+​![alt text](https://github.com/tushar40/Math-Application/blob/master/readme-images/compute_screen.png)
+​![alt text](https://github.com/tushar40/Math-Application/blob/master/readme-images/result_screen.png)
 
 
 This project is built using Kotlin and AndroidX.
