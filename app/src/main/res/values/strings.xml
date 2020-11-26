@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathApplication</string>
+    <string name="variable_1">variable 1</string>
+    <string name="variable_2">variable 2</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+</resources>

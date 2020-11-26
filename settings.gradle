@@ -1,0 +1,3 @@
+include ':MathLibrary'
+include ':app'
+rootProject.name = "MathApplication"
